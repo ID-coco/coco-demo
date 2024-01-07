@@ -1,3 +1,3 @@
 # coco-demo
-this my first git repository
-author - coco 
+this my first git repository.
+Author - coco 
